@@ -260,5 +260,5 @@ Each model produces:
 ---
 
 ### Performance Comparison
-![CNN-Results](https://github.com/user-attachments/assets/076f0c1d-1061-4a0f-a4b6-ed163ce31db4)
-![Pretrained-Results](https://github.com/user-attachments/assets/c47a3847-ec95-4b95-969a-8fd944c8fe92)
+![results](https://github.com/user-attachments/assets/d614f18c-7530-4d42-ba29-244d14c1cd98)
+
